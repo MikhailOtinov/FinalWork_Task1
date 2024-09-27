@@ -2,7 +2,7 @@ package task1;
 
 public enum Type {
     BOOK("Книга"),
-    NEWSPAPER("Газета"),
+    NEWSPAPER("Журнал"),
     MICROFILM("Фильм");
 
     private String title;
